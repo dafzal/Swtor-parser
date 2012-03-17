@@ -94,7 +94,7 @@ class Roll:
 # Combine multiple entries per ability
 def main():
   if len(sys.argv) == 1:
-    filename = 'argorash.txt'
+    filename = 'drewbudd.txt'
     print 'File not specified, defaulting to ' + filename
   else:
     filename = sys.argv[1]
