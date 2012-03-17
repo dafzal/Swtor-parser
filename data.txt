@@ -1,0 +1,283 @@
+[03/16/2012 22:47:14] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 22:47:14] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:47:14] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:47:14] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:47:14] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:47:15] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:47:15] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 22:47:16] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 22:47:16] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:47:16] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:47:16] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:47:16] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:47:17] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:47:17] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[03/16/2012 22:47:17] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 22:47:17] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:47:18] [@Asdffljklasdfj] [@Asdffljklasdfj] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:47:18] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[03/16/2012 22:47:18] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:47:18] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:47:18] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 kinetic {836045448940873}) <76>
+[03/16/2012 22:47:18] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 22:47:18] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (46)
+[03/16/2012 22:47:19] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:47:19] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:47:19] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:47:19] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:47:19] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:47:20] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:47:20] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 22:47:20] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:48:26] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 22:48:27] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:48:28] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:48:29] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:48:29] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:48:36] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 22:50:13] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 22:50:13] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:50:13] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:50:13] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:50:13] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:50:13] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:50:14] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:50:16] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 22:51:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 22:51:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:51:22] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:51:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:51:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 22:51:22] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (11 kinetic {836045448940873}) <11>
+[03/16/2012 22:51:23] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 22:51:24] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:51:24] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: SetLevel {836045448945492}] (2)
+[03/16/2012 22:51:24] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 22:51:24] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 22:51:24] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (46)
+[03/16/2012 22:51:25] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[03/16/2012 22:51:25] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:51:25] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:51:25] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:51:25] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:51:26] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 22:51:26] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (20 kinetic {836045448940873}) <20>
+[03/16/2012 22:51:26] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:51:27] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:51:27] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:51:27] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 22:51:28] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 22:51:29] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (20 kinetic {836045448940873}) <20>
+[03/16/2012 22:51:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 22:51:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:51:30] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:51:30] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:51:30] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 22:51:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (60)
+[03/16/2012 22:53:28] [@Asdffljklasdfj] [@Asdffljklasdfj] [Unnatural Might {1781509484707840}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:53:28] [@Asdffljklasdfj] [@Pytota] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[03/16/2012 22:53:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [Channel Hatred {807733024522240}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:53:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [Channel Hatred {807733024522240}] [ApplyEffect {836045448945477}: Channel Hatred {807733024522240}] ()
+[03/16/2012 22:53:35] [@Pytota] [@Asdffljklasdfj] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[03/16/2012 22:53:39] [@Asdffljklasdfj] [@Asdffljklasdfj] [Channel Hatred {807733024522240}] [RemoveEffect {836045448945478}: Channel Hatred {807733024522240}] ()
+[03/16/2012 22:53:39] [@Asdffljklasdfj] [@Asdffljklasdfj] [Channel Hatred {807733024522240}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[03/16/2012 22:53:45] [@Asdffljklasdfj] [@Asdffljklasdfj] [Unnatural Might {1781509484707840}] [RemoveEffect {836045448945478}: Unnatural Might {1781509484707840}] ()
+[03/16/2012 22:53:48] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 22:53:48] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/16/2012 22:54:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 22:54:30] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[03/16/2012 22:54:31] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:33] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:54:33] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:34] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 22:54:35] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:36] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 22:54:36] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:37] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:38] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:54:38] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[03/16/2012 22:54:40] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:40] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:54:41] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:54:42] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:43] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:43] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[03/16/2012 22:54:45] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[03/16/2012 22:54:46] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[03/16/2012 22:54:46] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:54:47] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:48] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:49] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:50] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:50] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:52] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:54:52] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:52] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[03/16/2012 22:54:54] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:54:54] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:55] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:54:55] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:54:57] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:54:57] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:57] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:58] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:54:59] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:00] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 22:55:02] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:02] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:03] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[03/16/2012 22:55:04] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:05] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:05] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:07] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:55:08] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:08] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:09] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:09] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:10] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:10] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:11] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[03/16/2012 22:55:13] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:13] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:14] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[03/16/2012 22:55:15] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[03/16/2012 22:55:15] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:15] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:18] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[03/16/2012 22:55:18] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:55:19] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:20] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:20] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:21] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:22] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[03/16/2012 22:55:23] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:23] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:24] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (20 kinetic {836045448940873}) <20>
+[03/16/2012 22:55:25] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18 kinetic {836045448940873}) <18>
+[03/16/2012 22:55:27] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 22:55:28] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:28] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:29] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:29] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:31] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 22:55:31] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 22:55:31] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:32] [@Pytota] [@Asdffljklasdfj] [Mark of Power {952795544944640}] [RemoveEffect {836045448945478}: Mark of Power {952795544944640}] ()
+[03/16/2012 22:55:32] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/16/2012 22:55:32] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 22:55:32] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 22:57:04] [@Asdffljklasdfj] [@Asdffljklasdfj] [Field Revive {1704474951286784}] [ApplyEffect {836045448945477}: Field Revive {1704474951286784}] ()
+[03/16/2012 22:57:07] [@Asdffljklasdfj] [@Asdffljklasdfj] [Field Revive {1704474951286784}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (165)
+[03/16/2012 22:57:07] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: Revived {836045448945494}] ()
+[03/16/2012 22:57:26] [@Asdffljklasdfj] [@Asdffljklasdfj] [Field Revive {1704474951286784}] [RemoveEffect {836045448945478}: Field Revive {1704474951286784}] ()
+[03/16/2012 23:03:43] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 23:03:43] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:03:43] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[03/16/2012 23:03:43] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:03:43] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:43] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:44] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:03:44] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:03:45] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21 kinetic {836045448940873}) <21>
+[03/16/2012 23:03:45] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (16 kinetic {836045448940873}) <16>
+[03/16/2012 23:03:45] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:03:45] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (21* kinetic {836045448940873}) <21>
+[03/16/2012 23:03:45] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:45] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:46] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:03:46] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:03:46] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (19 kinetic {836045448940873}) <19>
+[03/16/2012 23:03:47] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:03:47] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:03:47] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 23:03:47] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (33)
+[03/16/2012 23:03:47] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:47] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:47] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 23:03:48] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:03:48] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 23:03:48] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:48] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:49] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:03:49] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:03:49] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 23:03:49] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:03:50] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:03:50] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:03:50] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:50] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:50] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:03:51] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:51] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:03:52] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (9 kinetic {836045448940873}) <9>
+[03/16/2012 23:03:52] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 23:03:52] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 23:03:52] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (33)
+[03/16/2012 23:03:52] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18* kinetic {836045448940873}) <18>
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:21] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (18* kinetic {836045448940873}) <18>
+[03/16/2012 23:04:22] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:04:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:22] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 23:04:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:22] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:22] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (15 kinetic {836045448940873}) <15>
+[03/16/2012 23:04:23] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:04:23] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 23:04:23] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (33)
+[03/16/2012 23:04:24] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 23:04:24] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 23:04:24] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 23:04:24] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 23:04:25] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:04:25] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 23:04:25] [@Asdffljklasdfj] [@Asdffljklasdfj] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:25] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[03/16/2012 23:04:25] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/16/2012 23:04:26] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (110* kinetic {836045448940873}) <110>
+[03/16/2012 23:04:26] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 23:04:26] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (33)
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (12 kinetic {836045448940873}) <12>
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:33] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:04:34] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[03/16/2012 23:04:34] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 23:04:34] [@Asdffljklasdfj] [@Asdffljklasdfj] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:34] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:04:34] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:34] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/16/2012 23:04:35] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:04:36] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (14 kinetic {836045448940873}) <14>
+[03/16/2012 23:04:36] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Maul {2021808609951744}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (13 kinetic {836045448940873}) <13>
+[03/16/2012 23:04:36] [@Asdffljklasdfj] [@Asdffljklasdfj] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:36] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[03/16/2012 23:04:37] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 kinetic {836045448940873}) <73>
+[03/16/2012 23:04:37] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 23:04:37] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (33)
+[03/16/2012 23:04:37] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (10 kinetic {836045448940873}) <10>
+[03/16/2012 23:04:38] [K'lor'slug Forager {512381008478208}] [@Asdffljklasdfj] [Melee Attack {813565590110208}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/16/2012 23:04:38] [@Asdffljklasdfj] [@Asdffljklasdfj] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:38] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[03/16/2012 23:04:38] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (73 kinetic {836045448940873}) <73>
+[03/16/2012 23:04:39] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/16/2012 23:04:39] [@Asdffljklasdfj] [@Asdffljklasdfj] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/16/2012 23:04:39] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[03/16/2012 23:04:39] [@Asdffljklasdfj] [@Asdffljklasdfj] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/16/2012 23:04:40] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (76 kinetic {836045448940873}) <76>
+[03/16/2012 23:04:40] [@Asdffljklasdfj] [K'lor'slug Forager {512381008478208}] [] [Event {836045448945472}: Death {836045448945493}] ()
+[03/16/2012 23:04:40] [@Asdffljklasdfj] [@Asdffljklasdfj] [] [Event {836045448945472}: GainXp {836045448945491}] (33)
