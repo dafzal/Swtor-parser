@@ -1,6 +1,9 @@
+# Danial Afzal
+# iotasquared@gmail.com
 import os
 import re
 from datetime import datetime
+import sys
 #[03/16/2012 22:53:45] [@Asdffljklasdfj] [@Asdffljklasdfj] [Unnatural Might {1781509484707840}] [RemoveEffect {836045448945478}: Unnatural Might {1781509484707840}] ()
 #[date] [src] [target] [ability] [effect] (value) <roll>
 #src = [foo {id}] or [@player]
@@ -89,7 +92,6 @@ def main():
     events.append(Event(line))
 
   players = set([event.source.name for event in events])
-  print players
   for player in players:
     combat = False
     dmg = 0
@@ -98,7 +100,7 @@ def main():
         combat = event.date
       if 'ExitCombat' in event.effect.detail:
         if combat:
-          print 'Player %s did %d in %s' % (player, dmg, str(event.date-combat))
+          print '%s did %d in %s' % (player, dmg, str(event.date-combat))
         combat = False
         
       if not combat:
