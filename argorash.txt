@@ -1,0 +1,384 @@
+[03/17/2012 19:30:34] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [RemoveEffect {836045448945478}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:30:34] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:30:34] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:32:14] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:32:14] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:32:14] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [ApplyEffect {836045448945477}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:33:11] [@Argorash] [@Argorash] [In PvP Area {2498086123339776}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:33:31] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [RemoveEffect {836045448945478}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:33:31] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:33:31] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:33:31] [@Argorash] [@Argorash] [Looting {810795336204288}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:33:38] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:33:39] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:33:39] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [ApplyEffect {836045448945477}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:34:51] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [RemoveEffect {836045448945478}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:34:51] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:34:51] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:35:00] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:35:01] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:35:01] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [ApplyEffect {836045448945477}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:37:06] [@Argorash] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (1666)
+[03/17/2012 19:43:47] [@Argorash] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (756)
+[03/17/2012 19:44:17] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [RemoveEffect {836045448945478}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:44:17] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:44:17] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:44:20] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Companion Buff Controller {2531196026224640}] [ApplyEffect {836045448945477}: Coordination {2531196026224903}] ()
+[03/17/2012 19:44:20] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Companion Buff Controller {2531196026224640}] [ApplyEffect {836045448945477}: Unnatural Might {2531196026224906}] ()
+[03/17/2012 19:44:20] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Companion Buff Controller {2531196026224640}] [ApplyEffect {836045448945477}: Mark of Power {2531196026224909}] ()
+[03/17/2012 19:44:38] [@Argorash] [@Argorash] [Companion Dance {2916158239932416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:44:46] [@Argorash] [@Argorash] [Equilibrium {2882545825873920}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:44:46] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Equilibrium {2882545825873920}] [ApplyEffect {836045448945477}: Equilibrium {2882545825873920}] ()
+[03/17/2012 19:44:46] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash] [Equilibrium {2882545825873920}] [ApplyEffect {836045448945477}: Equilibrium {2882545825873920}] ()
+[03/17/2012 19:44:57] [@Argorash] [@Argorash] [Companion Dance {2916158239932416}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:45:01] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Equilibrium {2882545825873920}] [RemoveEffect {836045448945478}: Equilibrium {2882545825873920}] ()
+[03/17/2012 19:45:01] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash] [Equilibrium {2882545825873920}] [RemoveEffect {836045448945478}: Equilibrium {2882545825873920}] ()
+[03/17/2012 19:45:01] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:45:01] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heroic Moment: Call on the Force {1412666283261952}] ()
+[03/17/2012 19:45:01] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heroic Moment: Call on the Force {1412666283261952}] ()
+[03/17/2012 19:45:04] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:04] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (635*)
+[03/17/2012 19:45:07] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:07] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (635*)
+[03/17/2012 19:45:10] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (730*)
+[03/17/2012 19:45:10] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:13] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:13] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:16] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:16] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:19] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (730*)
+[03/17/2012 19:45:19] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (635*)
+[03/17/2012 19:45:22] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:22] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:25] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (730*)
+[03/17/2012 19:45:25] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:28] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:28] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:31] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:31] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:34] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:34] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:37] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (730*)
+[03/17/2012 19:45:37] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:40] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:40] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (635*)
+[03/17/2012 19:45:43] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:43] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:45:44] [@Argorash] [@Argorash] [Fleet Pass {2484879098904576}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:45:46] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (434)
+[03/17/2012 19:45:46] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (635*)
+[03/17/2012 19:45:49] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (730*)
+[03/17/2012 19:45:49] [@Argorash] [@Argorash:Lieutenant Pierce {493302763749376}] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (378)
+[03/17/2012 19:46:09] [@Argorash] [@Argorash] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[03/17/2012 19:46:09] [@Argorash] [@Argorash] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[03/17/2012 19:46:09] [@Argorash] [@Argorash] [Coordination {881945764429824}] [ApplyEffect {836045448945477}: Coordination {881945764430085}] ()
+[03/17/2012 19:46:09] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heroic Moment: Call on the Force {1412666283261952}] ()
+[03/17/2012 19:46:09] [@Argorash] [@Argorash] [Exotech Fortitude Stim {2628288056918016}] [ApplyEffect {836045448945477}: Exotech Fortitude Stim {2628288056918016}] ()
+[03/17/2012 19:46:09] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:46:10] [@Argorash] [@Argorash] [Soresu Form {807784564129792}] [ApplyEffect {836045448945477}: Soresu Form {807784564129792}] ()
+[03/17/2012 19:46:10] [@Argorash] [@Argorash] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/17/2012 19:46:10] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:10] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:10] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:12] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:17] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:18] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:21] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:24] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:27] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:28] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:46:30] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:33] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:36] [@Argorash] [@Argorash] [Heroic Moment: Call on the Force {1412666283261952}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (0)
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Coordination {881945764429824}] [ApplyEffect {836045448945477}: Coordination {881945764430085}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Exotech Fortitude Stim {2628288056918016}] [ApplyEffect {836045448945477}: Exotech Fortitude Stim {2628288056918016}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Soresu Form {807784564129792}] [ApplyEffect {836045448945477}: Soresu Form {807784564129792}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Bolster {810421674049536}] ()
+[03/17/2012 19:46:55] [@Argorash] [@Argorash] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (21707)
+[03/17/2012 19:47:13] [@Argorash] [@Argorash] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[03/17/2012 19:47:13] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:47:18] [@Argorash] [@Argorash] [Conversation {806968520343552}] [RemoveEffect {836045448945478}: In Conversation {806968520343876}] ()
+[03/17/2012 19:48:13] [@Brockly] [@Argorash] [Kolto Residue {2032786546360320}] [ApplyEffect {836045448945477}: Kolto Residue {2032786546360320}] ()
+[03/17/2012 19:48:14] [@Brockly] [@Argorash] [Kolto Missile {985514605805568}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (1024) <214>
+[03/17/2012 19:48:28] [@Brockly] [@Argorash] [Kolto Residue {2032786546360320}] [RemoveEffect {836045448945478}: Kolto Residue {2032786546360320}] ()
+[03/17/2012 19:48:39] [@Argorash] [@Argorash] [ {2731998632214528}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:48:40] [@Argorash] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (116)
+[03/17/2012 19:48:51] [@Argorash] [@Argorash] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/17/2012 19:48:51] [@Argorash] [@Argorash] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[03/17/2012 19:48:51] [@Argorash] [@Argorash] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[03/17/2012 19:48:51] [@Invi] [@Argorash] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized {807750204391700}] ()
+[03/17/2012 19:48:51] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:52] [@Invi] [@Argorash] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (344 energy {836045448940874}) <344>
+[03/17/2012 19:48:52] [@Argorash] [@Argorash] [Unleash {807823218835456}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:48:52] [@Invi] [@Argorash] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized {807750204391700}] ()
+[03/17/2012 19:48:52] [@Argorash] [@Argorash] [Revenge {1261642348232704}] [ApplyEffect {836045448945477}: Revenge {1261642348232704}] ()
+[03/17/2012 19:48:52] [@Invi] [@Argorash] [Energy Surge {2785453795180544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (101 energy {836045448940874}) <101>
+[03/17/2012 19:48:52] [@Invi] [@Argorash] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[03/17/2012 19:48:52] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308* internal {836045448940876}) <308>
+[03/17/2012 19:48:52] [@Argorash] [@Argorash] [Force Choke {807754499358720}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:48:52] [@Argorash] [@Invi] [Force Choke {807754499358720}] [ApplyEffect {836045448945477}: Stunned {807754499359098}] ()
+[03/17/2012 19:48:52] [@Argorash] [@Invi] [Crushed {807754499359096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (484 kinetic {836045448940873}) <726>
+[03/17/2012 19:48:52] [@Invi] [@Argorash] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (164 energy {836045448940874}) <164>
+[03/17/2012 19:48:53] [@Argorash] [@Invi] [Crushed {807754499359096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (484 kinetic {836045448940873}) <726>
+[03/17/2012 19:48:53] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:54] [@Argorash] [@Argorash] [Retaliation {1582223002173440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:48:54] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:54] [@Argorash] [@Argorash] [Blade Barricade {807995017527296}] [ApplyEffect {836045448945477}: Blade Barricade {807995017527296}] ()
+[03/17/2012 19:48:54] [@Argorash] [@Invi] [Force Choke {807754499358720}] [RemoveEffect {836045448945478}: Stunned {807754499359098}] ()
+[03/17/2012 19:48:54] [@Argorash] [@Invi] [Retaliation {1582223002173440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (865 energy {836045448940874}) <1298>
+[03/17/2012 19:48:54] [@Argorash] [@Invi] [Crushed {807754499359096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (484 kinetic {836045448940873}) <726>
+[03/17/2012 19:48:54] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:55] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:55] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:48:55] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 internal {836045448940876}) <371>
+[03/17/2012 19:48:55] [@Invi] [@Argorash] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:48:55] [@Invi] [@Argorash] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (168 energy {836045448940874}) <168>
+[03/17/2012 19:48:55] [@Argorash] [@Invi] [Crushed {807754499359096}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (484 kinetic {836045448940873}) <726>
+[03/17/2012 19:48:55] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:56] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:48:56] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:48:57] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1305* internal {836045448940876}) <1305>
+[03/17/2012 19:48:57] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (175 energy {836045448940874}) <175>
+[03/17/2012 19:48:57] [@Argorash] [@Argorash] [Shield Overcharge {2785986371125248}] [ApplyEffect {836045448945477}: Shield Overcharge {2785986371125248}] ()
+[03/17/2012 19:48:57] [@Psyfe] [@Argorash] [Leg Shot {814841195397120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -deflect {836045448945508}) <1>
+[03/17/2012 19:48:57] [@Argorash] [@Argorash] [Enraged Defense {2793644297814016}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:48:57] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (4)
+[03/17/2012 19:48:57] [@Argorash] [@Argorash] [Enraged Defense {2793644297814016}] [ApplyEffect {836045448945477}: Enraged Defense {2793644297814016}] ()
+[03/17/2012 19:48:57] [@Argorash] [@Invi] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <-1033>
+[03/17/2012 19:48:57] [@Argorash] [@Psyfe] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[03/17/2012 19:48:57] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:48:58] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:48:58] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:58] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:48:58] [@Argorash] [@Argorash] [ {2793648592781312}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (489)
+[03/17/2012 19:48:58] [@Argorash] [@Invi] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <-258>
+[03/17/2012 19:48:58] [@Argorash] [@Psyfe] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[03/17/2012 19:48:58] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (183 energy {836045448940874}) <183>
+[03/17/2012 19:48:58] [@Invi] [@Argorash] [Energy Surge {2785453795180544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (124 energy {836045448940874}) <124>
+[03/17/2012 19:48:58] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (278* energy {836045448940874}) <278>
+[03/17/2012 19:48:59] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (117 energy {836045448940874}) <117>
+[03/17/2012 19:48:59] [@Argorash] [@Argorash] [Force Push {1681861948473344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:48:59] [@Argorash] [@Invi] [Force Push {1681861948473344}] [ApplyEffect {836045448945477}: Knockdown {1681861948473600}] ()
+[03/17/2012 19:48:59] [@Invi] [@Argorash] [Cloak of Pain {2473484550668288}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (267* energy {836045448940874}) <267>
+[03/17/2012 19:49:00] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1324* internal {836045448940876}) <1324>
+[03/17/2012 19:49:00] [@Argorash] [@Argorash] [Blade Barricade {807995017527296}] [RemoveEffect {836045448945478}: Blade Barricade {807995017527296}] ()
+[03/17/2012 19:49:00] [@Argorash] [@Invi] [Force Push {1681861948473344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (739 kinetic {836045448940873}) <1109>
+[03/17/2012 19:49:00] [@Psyfe] [@Argorash] [Ambush {814781065854976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3383* energy {836045448940874}) <3383>
+[03/17/2012 19:49:00] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (133 energy {836045448940874} -glance {836045448945509}) <133>
+[03/17/2012 19:49:01] [@Psyfe] [@Argorash] [Followthrough {2300994369093632}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (576 energy {836045448940874} -glance {836045448945509}) <576>
+[03/17/2012 19:49:01] [@Argorash] [@Argorash] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:01] [@Argorash] [@Argorash] [ {2695018963795968}] [ApplyEffect {836045448945477}: Vindicator {2695018963796231}] ()
+[03/17/2012 19:49:01] [@Argorash] [@Invi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized {807750204391700}] ()
+[03/17/2012 19:49:01] [@Argorash] [@Invi] [Crash {2848589814431744}] [ApplyEffect {836045448945477}: Stunned (Physical) {2848589814432000}] ()
+[03/17/2012 19:49:01] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[03/17/2012 19:49:01] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (88 energy {836045448940874} -glance {836045448945509}) <88>
+[03/17/2012 19:49:01] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:49:01] [@Argorash] [@Invi] [Force Push {1681861948473344}] [RemoveEffect {836045448945478}: Knockdown {1681861948473600}] ()
+[03/17/2012 19:49:02] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:02] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:02] [@Argorash] [@Argorash] [ {2793648592781312}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (489)
+[03/17/2012 19:49:02] [@Argorash] [@Invi] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <-503>
+[03/17/2012 19:49:02] [@Argorash] [@Psyfe] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[03/17/2012 19:49:02] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1085* energy {836045448940874}) <1085>
+[03/17/2012 19:49:02] [@Argorash] [@Invi] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (520 energy {836045448940874}) <781>
+[03/17/2012 19:49:02] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1114* energy {836045448940874}) <1114>
+[03/17/2012 19:49:03] [@Argorash] [@Argorash] [Retaliation {1582223002173440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:03] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:03] [@Argorash] [@Argorash] [Blade Barricade {807995017527296}] [ApplyEffect {836045448945477}: Blade Barricade {807995017527296}] ()
+[03/17/2012 19:49:03] [@Invi] [@Argorash] [Cloak of Pain {2473484550668288}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (152 energy {836045448940874}) <152>
+[03/17/2012 19:49:03] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:03] [@Argorash] [@Argorash] [ {2793648592781312}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (489)
+[03/17/2012 19:49:03] [@Argorash] [@Invi] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <-595>
+[03/17/2012 19:49:03] [@Argorash] [@Psyfe] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[03/17/2012 19:49:03] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1324* internal {836045448940876}) <1324>
+[03/17/2012 19:49:03] [@Invi] [@Argorash] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[03/17/2012 19:49:03] [@Argorash] [@Argorash] [Shield Overcharge {2785986371125248}] [RemoveEffect {836045448945478}: Shield Overcharge {2785986371125248}] ()
+[03/17/2012 19:49:03] [@Argorash] [@Invi] [Retaliation {1582223002173440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (740 energy {836045448940874}) <1110>
+[03/17/2012 19:49:03] [@Argorash] [@Invi] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized {807750204391700}] ()
+[03/17/2012 19:49:03] [@Argorash] [@Invi] [Crash {2848589814431744}] [RemoveEffect {836045448945478}: Stunned (Physical) {2848589814432000}] ()
+[03/17/2012 19:49:03] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1137* energy {836045448940874}) <1137>
+[03/17/2012 19:49:03] [] [@Argorash] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <-140689>
+[03/17/2012 19:49:04] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:04] [@Argorash] [@Argorash] [ {2793648592781312}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (489)
+[03/17/2012 19:49:04] [@Argorash] [@Psyfe] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[03/17/2012 19:49:04] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1119* energy {836045448940874}) <1119>
+[03/17/2012 19:49:04] [@Argorash] [@Argorash] [Warzone Medpac {864164599824384}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:05] [@Argorash] [@Argorash] [Warzone Medpac {864164599824384}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (5708)
+[03/17/2012 19:49:06] [@Argorash] [@Argorash] [Enrage {2515566640234496}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:06] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[03/17/2012 19:49:06] [@Argorash] [@Argorash] [ {2695018963795968}] [RemoveEffect {836045448945478}: Vindicator {2695018963796231}] ()
+[03/17/2012 19:49:07] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:07] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:07] [@Argorash] [@Argorash] [ {2793648592781312}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (489)
+[03/17/2012 19:49:07] [@Argorash] [@Invi] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <-429>
+[03/17/2012 19:49:07] [@Argorash] [@Psyfe] [] [Event {836045448945472}: ModifyThreat {836045448945483}] () <0>
+[03/17/2012 19:49:07] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (140 energy {836045448940874} -glance {836045448945509}) <140>
+[03/17/2012 19:49:07] [@Invi] [@Argorash] [Energy Surge {2785453795180544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (219* energy {836045448940874}) <219>
+[03/17/2012 19:49:07] [@Argorash] [@Argorash] [Enraged Defense {2793644297814016}] [RemoveEffect {836045448945478}: Enraged Defense {2793644297814016}] ()
+[03/17/2012 19:49:08] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (159 energy {836045448940874}) <159>
+[03/17/2012 19:49:09] [@Argorash] [@Argorash] [Blade Barricade {807995017527296}] [RemoveEffect {836045448945478}: Blade Barricade {807995017527296}] ()
+[03/17/2012 19:49:09] [@Argorash] [@Argorash] [Sundering Assault {807806038966272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:09] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:09] [@Argorash] [@Invi] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Armor Reduced {807806038966564}] ()
+[03/17/2012 19:49:09] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:09] [@Invi] [@Argorash] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[03/17/2012 19:49:09] [@Invi] [@Argorash] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[03/17/2012 19:49:09] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (441* internal {836045448940876}) <441>
+[03/17/2012 19:49:09] [@Argorash] [@Invi] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1387* energy {836045448940874}) <2081>
+[03/17/2012 19:49:10] [@Invi] [@Argorash] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (765* energy {836045448940874}) <765>
+[03/17/2012 19:49:10] [@Invi] [@Argorash] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:49:10] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:10] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (396* internal {836045448940876}) <396>
+[03/17/2012 19:49:10] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (132 energy {836045448940874} -glance {836045448945509}) <132>
+[03/17/2012 19:49:10] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (313* energy {836045448940874}) <313>
+[03/17/2012 19:49:11] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (172 internal {836045448940876}) <172>
+[03/17/2012 19:49:12] [@Psyfe] [@Argorash] [Leg Shot {814841195397120}] [ApplyEffect {836045448945477}: Immobilized (Physical) {814841195397382}] ()
+[03/17/2012 19:49:12] [@Invi] [@Argorash] [Energy Surge {2785453795180544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (109 energy {836045448940874}) <109>
+[03/17/2012 19:49:12] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (344 internal {836045448940876}) <344>
+[03/17/2012 19:49:12] [@Psyfe] [@Argorash] [Leg Shot {814841195397120}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (696* energy {836045448940874}) <696>
+[03/17/2012 19:49:12] [@Invi] [@Argorash] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2395* energy {836045448940874}) <2395>
+[03/17/2012 19:49:12] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (172 internal {836045448940876}) <172>
+[03/17/2012 19:49:13] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (354* internal {836045448940876}) <354>
+[03/17/2012 19:49:13] [@Psyfe] [@Argorash] [Snipe {814892735004672}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (906 energy {836045448940874}) <906>
+[03/17/2012 19:49:13] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:14] [@Psyfe] [@Argorash] [Leg Shot {814841195397120}] [RemoveEffect {836045448945478}: Immobilized (Physical) {814841195397382}] ()
+[03/17/2012 19:49:14] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (354* internal {836045448940876}) <354>
+[03/17/2012 19:49:14] [@Invi] [@Argorash] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (220 energy {836045448940874}) <220>
+[03/17/2012 19:49:14] [@Invi] [@Argorash] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:49:15] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (344 internal {836045448940876}) <344>
+[03/17/2012 19:49:15] [B4-T9 {897802783686656}] [@Argorash] [Frozen {1394764859572224}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (12981)
+[03/17/2012 19:49:15] [@Psyfe] [@Argorash] [Takedown {987683564290048}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (903 energy {836045448940874} -glance {836045448945509}) <903>
+[03/17/2012 19:49:15] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (157 internal {836045448940876}) <157>
+[03/17/2012 19:49:15] [@Invi] [@Argorash] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[03/17/2012 19:49:15] [@Invi] [@Argorash] [Force Scream {998270658674688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (863 kinetic {836045448940873}) <863>
+[03/17/2012 19:49:17] [@Invi] [@Argorash] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[03/17/2012 19:49:17] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:17] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (472 internal {836045448940876}) <472>
+[03/17/2012 19:49:17] [@Psyfe] [@Argorash] [Explosive Probe {814815425593344}] [ApplyEffect {836045448945477}: Explosive Probe (Tech) {814815425593688}] ()
+[03/17/2012 19:49:18] [@Argorash] [@Argorash] [Shield Overcharge {2785986371125248}] [ApplyEffect {836045448945477}: Shield Overcharge {2785986371125248}] ()
+[03/17/2012 19:49:18] [@Psyfe] [@Argorash] [Explosive Probe {814815425593344}] [RemoveEffect {836045448945478}: Explosive Probe (Tech) {814815425593688}] ()
+[03/17/2012 19:49:18] [@Psyfe] [@Argorash] [Explosive Probe (Tech) {814815425593688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1118 kinetic {836045448940873}) <1118>
+[03/17/2012 19:49:18] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (350 energy {836045448940874} -glance {836045448945509}) <350>
+[03/17/2012 19:49:18] [@Invi] [@Argorash] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (317 energy {836045448940874}) <317>
+[03/17/2012 19:49:18] [@Invi] [@Argorash] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (69 energy {836045448940874}) <69>
+[03/17/2012 19:49:18] [@Invi] [@Argorash] [Energy Surge {2785453795180544}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (109 energy {836045448940874}) <109>
+[03/17/2012 19:49:18] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (157 internal {836045448940876}) <157>
+[03/17/2012 19:49:18] [@Argorash] [@Argorash] [Retaliation {1582223002173440}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:18] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:18] [@Argorash] [@Argorash] [Blade Barricade {807995017527296}] [ApplyEffect {836045448945477}: Blade Barricade {807995017527296}] ()
+[03/17/2012 19:49:19] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (228 energy {836045448940874} -glance {836045448945509}) <228>
+[03/17/2012 19:49:19] [@Argorash] [@Invi] [Retaliation {1582223002173440}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (906 energy {836045448940874}) <1360>
+[03/17/2012 19:49:19] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (157 internal {836045448940876}) <157>
+[03/17/2012 19:49:19] [@Argorash] [@Argorash] [Force Scream {998270658674688}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:49:19] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:19] [@Argorash] [@Argorash] [Sonic Barrier {2308471907155968}] [ApplyEffect {836045448945477}: Sonic Barrier {2308471907155968}] ()
+[03/17/2012 19:49:19] [@Argorash] [@Argorash] [Revenge {1261642348232704}] [RemoveEffect {836045448945478}: Revenge {1261642348232704}] ()
+[03/17/2012 19:49:20] [@Psyfe] [@Argorash] [Series of Shots {2299572734918656}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (234 energy {836045448940874} -glance {836045448945509} (234 absorbed {836045448945511})) <234>
+[03/17/2012 19:49:20] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (242* energy {836045448940874} (242 absorbed {836045448945511})) <242>
+[03/17/2012 19:49:20] [@Argorash] [@Argorash] [Sonic Barrier {2308471907155968}] [RemoveEffect {836045448945478}: Sonic Barrier {2308471907155968}] ()
+[03/17/2012 19:49:20] [@Argorash] [@Argorash] [Revenge {1261642348232704}] [ApplyEffect {836045448945477}: Revenge {1261642348232704}] ()
+[03/17/2012 19:49:20] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (130 energy {836045448940874} (130 absorbed {836045448945511})) <130>
+[03/17/2012 19:49:20] [@Argorash] [@Invi] [Force Scream {998270658674688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2394* kinetic {836045448940873}) <3591>
+[03/17/2012 19:49:20] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 19:49:20] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (973* internal {836045448940876}) <973>
+[03/17/2012 19:49:20] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (157 internal {836045448940876}) <157>
+[03/17/2012 19:49:21] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (249* energy {836045448940874} (100 absorbed {836045448945511})) <249>
+[03/17/2012 19:49:21] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (157 internal {836045448940876}) <157>
+[03/17/2012 19:49:22] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (324* internal {836045448940876}) <324>
+[03/17/2012 19:49:22] [@Invi] [@Argorash] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -parry {836045448945503}) <1>
+[03/17/2012 19:49:23] [@Invi] [@Argorash] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (472 internal {836045448940876}) <472>
+[03/17/2012 19:49:23] [@Invi] [@Argorash] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[03/17/2012 19:49:23] [@Invi] [@Argorash] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (324* internal {836045448940876}) <324>
+[03/17/2012 19:49:23] [@Invi] [@Argorash] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[03/17/2012 19:49:24] [@Argorash] [@Argorash] [Shield Overcharge {2785986371125248}] [RemoveEffect {836045448945478}: Shield Overcharge {2785986371125248}] ()
+[03/17/2012 19:49:24] [@Argorash] [@Invi] [Sundering Assault {807806038966272}] [RemoveEffect {836045448945478}: Armor Reduced {807806038966564}] ()
+[03/17/2012 19:49:25] [@Argorash] [@Argorash] [Blade Barricade {807995017527296}] [RemoveEffect {836045448945478}: Blade Barricade {807995017527296}] ()
+[03/17/2012 19:49:31] [@Argorash] [@Argorash] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/17/2012 19:49:31] [@Argorash] [@Argorash] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[03/17/2012 19:49:31] [@Argorash] [@Argorash] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[03/17/2012 19:49:31] [@Argorash] [@Argorash] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/17/2012 19:49:46] [@Argorash] [@Argorash] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[03/17/2012 19:50:02] [@Argorash] [@Argorash] [Enraged Defense {2793644297814016}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:50:02] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (4)
+[03/17/2012 19:50:02] [@Argorash] [@Argorash] [Enraged Defense {2793644297814016}] [ApplyEffect {836045448945477}: Enraged Defense {2793644297814016}] ()
+[03/17/2012 19:50:12] [@Argorash] [@Argorash] [Enraged Defense {2793644297814016}] [RemoveEffect {836045448945478}: Enraged Defense {2793644297814016}] ()
+[03/17/2012 19:51:14] [@Argorash] [@Argorash] [Mark of Power {952795544944640}] [ApplyEffect {836045448945477}: Mark of Power {952795544944640}] ()
+[03/17/2012 19:51:14] [@Argorash] [@Argorash] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[03/17/2012 19:51:14] [@Argorash] [@Argorash] [Coordination {881945764429824}] [ApplyEffect {836045448945477}: Coordination {881945764430085}] ()
+[03/17/2012 19:51:14] [@Argorash] [@Argorash] [Exotech Fortitude Stim {2628288056918016}] [ApplyEffect {836045448945477}: Exotech Fortitude Stim {2628288056918016}] ()
+[03/17/2012 19:51:14] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:51:15] [@Argorash] [@Argorash] [Soresu Form {807784564129792}] [ApplyEffect {836045448945477}: Soresu Form {807784564129792}] ()
+[03/17/2012 19:51:15] [@Argorash] [@Argorash] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/17/2012 19:51:15] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Companion Buff Controller {2531196026224640}] [ApplyEffect {836045448945477}: Coordination {2531196026224903}] ()
+[03/17/2012 19:51:15] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Companion Buff Controller {2531196026224640}] [ApplyEffect {836045448945477}: Unnatural Might {2531196026224906}] ()
+[03/17/2012 19:51:15] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Companion Buff Controller {2531196026224640}] [ApplyEffect {836045448945477}: Mark of Power {2531196026224909}] ()
+[03/17/2012 19:51:34] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:51:34] [@Argorash:Lieutenant Pierce {493302763749376}] [@Argorash:Lieutenant Pierce {493302763749376}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 19:51:44] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 19:51:45] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:51:45] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [ApplyEffect {836045448945477}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:53:21] [@Argorash] [@Argorash] [Unnatural Might {1781509484707840}] [RemoveEffect {836045448945478}: Unnatural Might {1781509484707840}] ()
+[03/17/2012 19:53:21] [@Argorash] [@Argorash] [Mark of Power {952795544944640}] [RemoveEffect {836045448945478}: Mark of Power {952795544944640}] ()
+[03/17/2012 19:53:37] [@Argorash] [@Argorash] [Coordination {881945764429824}] [RemoveEffect {836045448945478}: Coordination {881945764430085}] ()
+[03/17/2012 19:58:29] [@Argorash] [@Argorash] [Personal Vehicle {2176247043981312}] [RemoveEffect {836045448945478}: Personal Vehicle {2176247043981312}] ()
+[03/17/2012 19:58:29] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:58:29] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 19:58:29] [@Argorash] [@Argorash] [Dessler Avenger {2534537510780928}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[03/17/2012 20:02:00] [@Argorash] [@Argorash] [Exotech Fortitude Stim {2628288056918016}] [ApplyEffect {836045448945477}: Exotech Fortitude Stim {2628288056918016}] ()
+[03/17/2012 20:02:00] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 20:02:00] [@Argorash] [@Argorash] [Soresu Form {807784564129792}] [ApplyEffect {836045448945477}: Soresu Form {807784564129792}] ()
+[03/17/2012 20:02:00] [@Argorash] [@Argorash] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/17/2012 20:02:00] [@Argorash] [@Argorash] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Bolster {810421674049536}] ()
+[03/17/2012 20:02:00] [@Argorash] [@Argorash] [Bolster {810421674049536}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (18545)
+[03/17/2012 20:02:01] [] [@Argorash] [Deserter Detection {2730083076800512}] [ApplyEffect {836045448945477}: Deserter Detection {2730083076800512}] ()
+[03/17/2012 20:02:13] [@Argorash] [@Argorash] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[03/17/2012 20:02:24] [@Argorash] [@Argorash] [Dispel Badge Volume {1438573525991424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 20:02:25] [@Argorash] [] [] [Event {836045448945472}: FallingDamage {836045448945484}] (6426)
+[03/17/2012 20:02:28] [] [@Argorash] [Deserter Detection {2730083076800512}] [RemoveEffect {836045448945478}: Deserter Detection {2730083076800512}] ()
+[03/17/2012 20:02:30] [@Argorash] [@Argorash] [Guard {1780032015958016}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 20:02:30] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [ApplyEffect {836045448945477}: Guard {1780032015958016}] ()
+[03/17/2012 20:02:30] [@Argorash] [@Argorash] [Guard {1780032015958016}] [ApplyEffect {836045448945477}: Guard {1780032015958016}] ()
+[03/17/2012 20:02:34] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [ApplyEffect {836045448945477}: Guard {1780032015958016}] ()
+[03/17/2012 20:02:49] [@Argorash] [@Argorash] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[03/17/2012 20:02:49] [@Argorash] [@Argorash] [Trauma (PVP) {632919265640448}] [ApplyEffect {836045448945477}: Trauma (PVP) {632919265640448}] ()
+[03/17/2012 20:02:49] [@Argorash] [@Argorash] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[03/17/2012 20:02:49] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [RemoveEffect {836045448945478}: Guard {1780032015958016}] ()
+[03/17/2012 20:02:51] [@Argorash] [@Argorash] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 20:02:51] [@Argorash] [@Argorash] [ {2695018963795968}] [ApplyEffect {836045448945477}: Vindicator {2695018963796231}] ()
+[03/17/2012 20:02:51] [@Argorash] [] [Force Lightning {808252715565056}] [Event {836045448945472}: AbilityInterrupt {836045448945482}] ()
+[03/17/2012 20:02:51] [@Argorash] [@Polyhedron] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Immobilized {807750204391700}] ()
+[03/17/2012 20:02:51] [@Argorash] [@Polyhedron] [Crash {2848589814431744}] [ApplyEffect {836045448945477}: Stunned (Physical) {2848589814432000}] ()
+[03/17/2012 20:02:51] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[03/17/2012 20:02:52] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [ApplyEffect {836045448945477}: Guard {1780032015958016}] ()
+[03/17/2012 20:02:52] [@Argorash] [@Polyhedron] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (569 energy {836045448940874}) <854>
+[03/17/2012 20:02:53] [@Argorash] [@Argorash] [Sundering Assault {807806038966272}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 20:02:53] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 20:02:53] [@Argorash] [@Polyhedron] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Armor Reduced {807806038966564}] ()
+[03/17/2012 20:02:53] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 20:02:54] [@Argorash] [@Polyhedron] [Force Charge {807750204391424}] [RemoveEffect {836045448945478}: Immobilized {807750204391700}] ()
+[03/17/2012 20:02:54] [@Argorash] [@Polyhedron] [Crash {2848589814431744}] [RemoveEffect {836045448945478}: Stunned (Physical) {2848589814432000}] ()
+[03/17/2012 20:02:54] [@Argorash] [@Polyhedron] [Sundering Assault {807806038966272}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (688 energy {836045448940874}) <1033>
+[03/17/2012 20:02:55] [@Argorash] [@Argorash] [Crushing Blow {2211062048882688}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[03/17/2012 20:02:55] [@Argorash] [@Argorash] [] [Spend {836045448945473}: rage point {836045448938497}] (4)
+[03/17/2012 20:02:55] [@Argorash] [@Polyhedron] [Sundering Assault {807806038966272}] [RemoveEffect {836045448945478}: Armor Reduced {807806038966564}] ()
+[03/17/2012 20:02:55] [@Argorash] [@Polyhedron] [Crushing Blow {2211062048882688}] [ApplyEffect {836045448945477}: Armor Reduced {2211062048882945}] ()
+[03/17/2012 20:02:55] [@Argorash] [@Argorash] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[03/17/2012 20:02:55] [@Polyhedron] [@Argorash] [Overload {808282780336128}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (415 energy {836045448940874}) <415>
+[03/17/2012 20:02:55] [@Argorash] [@Polyhedron] [Crushing Blow {2211062048882688}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1904 energy {836045448940874}) <4284>
+[03/17/2012 20:02:57] [@Argorash] [@Argorash] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[03/17/2012 20:02:57] [@Argorash] [@Polyhedron] [Crushing Blow {2211062048882688}] [RemoveEffect {836045448945478}: Armor Reduced {2211062048882945}] ()
+[03/17/2012 20:02:57] [@Argorash] [@Argorash] [Trauma (PVP) {632919265640448}] [RemoveEffect {836045448945478}: Trauma (PVP) {632919265640448}] ()
+[03/17/2012 20:02:57] [@Argorash] [@Argorash] [Trauma (PVP) {632923560607744}] [ApplyEffect {836045448945477}: Trauma (PVP) {632923560607744}] ()
+[03/17/2012 20:02:57] [@Argorash] [@Argorash] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[03/17/2012 20:02:57] [@Argorash] [@Argorash] [ {2695018963795968}] [RemoveEffect {836045448945478}: Vindicator {2695018963796231}] ()
+[03/17/2012 20:03:01] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [RemoveEffect {836045448945478}: Guard {1780032015958016}] ()
+[03/17/2012 20:03:04] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [ApplyEffect {836045448945477}: Guard {1780032015958016}] ()
+[03/17/2012 20:03:07] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [RemoveEffect {836045448945478}: Guard {1780032015958016}] ()
+[03/17/2012 20:03:12] [@Argorash] [@Argorash] [Trauma (PVP) {632923560607744}] [RemoveEffect {836045448945478}: Trauma (PVP) {632923560607744}] ()
+[03/17/2012 20:03:22] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [ApplyEffect {836045448945477}: Guard {1780032015958016}] ()
+[03/17/2012 20:03:28] [@Argorash] [@Psyfe] [Guard {1780032015958016}] [RemoveEffect {836045448945478}: Guard {1780032015958016}] ()
+[03/17/2012 20:03:28] [@Argorash] [@Argorash] [Guard {1780032015958016}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()

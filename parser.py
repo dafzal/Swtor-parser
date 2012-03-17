@@ -26,6 +26,8 @@ class Event:
     self.ability = Ability(data[3])
     self.effect = Effect(data[4])
     self.value = Value(data[5])
+    print data[5]
+    print self.value.value
     self.roll = Roll(data[6])
 
 class Entity:
@@ -48,21 +50,26 @@ class Effect:
   def __init__(self, x):
     if not x:
       self.type = ''
-      self.effect = ''
+      self.detail = ''
       return
-    self.type = x.split(':')[0]
-    self.detail = x.split(':')[1]
-
+    foo = x.split(':')
+    if len(foo) > 1:
+      self.type = foo[0]
+      self.detail = foo[1]
+    else:
+      self.type = x
+      self.detail = ''
+      
 class Value:
   def __init__(self, x):
     if not x:
       self.value = 0
       self.type = ''
       return
-    foo = x.split(' ')
-    self.value = int(x[0])
-    if len(x) > 1:
-      self.type = x[1]
+    foo = x.replace('*','').split(' ')
+    self.value = int(foo[0])
+    if len(foo) > 1:
+      self.type = foo[1]
     else:
       self.type=''
 
@@ -72,18 +79,25 @@ class Roll:
       self.value = 0
       self.type = ''
       return
-    foo = x.split(' ')
-    self.value = int(x[0])
-    if len(x) > 1:
-      self.type = x[1]
+    foo = x.replace('*','').split(' ')
+    self.value = int(foo[0])
+    if len(foo) > 1:
+      self.type = foo[1]
     else:
       self.type=''
 
 #date, source, target, ability, effect.type/detail, value.value/type, roll
+# TODO:
+#  multiple sources
+#  more interesting output, graphs? What about that metric site? Google charts?
+#  App engine seems fun
+#  Details for abilities:
+     # dmg per ability
+# Combine multiple entries per ability
 def main():
   if len(sys.argv) == 1:
-    print 'File not specified, defaulting to data.txt'
-    filename = 'data.txt'
+    filename = 'argorash.txt'
+    print 'File not specified, defaulting to ' + filename
   else:
     filename = sys.argv[1]
   file = open(filename, 'r')
@@ -98,8 +112,9 @@ def main():
     for event in events:
       if 'EnterCombat' in event.effect.detail:
         combat = event.date
+        dmg = 0
       if 'ExitCombat' in event.effect.detail:
-        if combat:
+        if combat and dmg:
           print '%s did %d in %s' % (player, dmg, str(event.date-combat))
         combat = False
         
