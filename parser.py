@@ -122,9 +122,12 @@ def main():
     for player in players:
       dmg = 0
       heal = 0
+      threat = 0
       for event in fight:
         if event.source.name == player and 'Damage ' in event.effect.detail:
           dmg += event.value.value
+        if event.source.name == player and event.threat.value:
+          threat += event.threat.value
         if event.source.name == player and 'Heal ' in event.effect.detail:
           heal += event.value.value
       secs = duration.seconds
@@ -134,6 +137,8 @@ def main():
         print '%s did %d damage in %s (%d DPS)' % (player, dmg, str(duration), dmg/secs)
       if heal:
         print '%s did %d heals in %s (%d HPS)' % (player, heal, str(duration), heal/secs)
+      if threat:
+        print '%s did %d threat in %s (%d TPS)' % (player, threat, str(duration), threat/secs)
     
           
   #print "\n".join([event.to_string for event in events])
