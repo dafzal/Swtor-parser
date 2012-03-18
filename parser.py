@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 import sys
 #[03/16/2012 22:53:45] [@Asdffljklasdfj] [@Asdffljklasdfj] [Unnatural Might {1781509484707840}] [RemoveEffect {836045448945478}: Unnatural Might {1781509484707840}] ()
-#[date] [src] [target] [ability] [effect] (value) <roll>
+#[date] [src] [target] [ability] [effect] (value) <threat>
 #src = [foo {id}] or [@player]
 # ability = abil {id}
 # effect = type:effect
@@ -26,7 +26,7 @@ class Event:
     self.ability = Ability(data[3])
     self.effect = Effect(data[4])
     self.value = Value(data[5])
-    self.roll = Roll(data[6])
+    self.threat = Threat(data[6])
 
 class Entity:
   def __init__(self, x):
@@ -71,7 +71,7 @@ class Value:
     else:
       self.type=''
 
-class Roll:
+class Threat:
   def __init__(self, x):
     if not x:
       self.value = 0
@@ -84,7 +84,7 @@ class Roll:
     else:
       self.type=''
 
-#date, source, target, ability, effect.type/detail, value.value/type, roll
+#date, source, target, ability, effect.type/detail, value.value/type, threat
 # TODO:
 #  multiple sources
 #  more interesting output, graphs? What about that metric site? Google charts?
