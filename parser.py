@@ -94,7 +94,7 @@ class Threat:
 # Combine multiple entries per ability
 def main():
   if len(sys.argv) == 1:
-    filename = 'drewbudd.txt'
+    filename = 'argorash.txt'
     print 'File not specified, defaulting to ' + filename
   else:
     filename = sys.argv[1]
@@ -112,6 +112,7 @@ def main():
     if 'ExitCombat' in event.effect.detail:
       fight.append(event)
       fights.append(fight)
+      fight = []
       continue
     fight.append(event)
 
