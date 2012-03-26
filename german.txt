@@ -1,0 +1,127 @@
+[03/22/2012 00:10:25] [@Draxas] [@Draxas] [Unnatürliche Stärke {1781509484707840}] [Effekt anwenden {836045448945477}: Unnatürliche Stärke {1781509484707840}] ()
+[03/22/2012 00:10:25] [@Draxas] [@Draxas] [Sicher anmelden {973870949466112}] [Effekt anwenden {836045448945477}: Sicher-anmelden-Immunität {973870949466372}] ()
+[03/22/2012 00:10:25] [@Draxas] [@Draxas] [Shii-Cho-Form {989268407222272}] [Effekt anwenden {836045448945477}: Shii-Cho-Form {989268407222272}] ()
+[03/22/2012 00:10:25] [@Draxas] [@Draxas] [Sprinten {810670782152704}] [Effekt anwenden {836045448945477}: Sprinten {810670782152704}] ()
+[03/22/2012 00:10:45] [@Draxas] [@Draxas] [Sicher anmelden {973870949466112}] [Effekt entfernen {836045448945478}: Sicher-anmelden-Immunität {973870949466372}] ()
+[03/22/2012 00:10:52] [@Draxas] [@Draxas] [] [Ereignis {836045448945472}: Kampf beginnen {836045448945489}] ()
+[03/22/2012 00:10:52] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:10:52] [@Draxas] [@Draxas] [Sprinten {810670782152704}] [Effekt entfernen {836045448945478}: Sprinten {810670782152704}] ()
+[03/22/2012 00:10:52] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (24 Energie {836045448940874}) <24>
+[03/22/2012 00:10:52] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:52] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:52] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (0 -verfehlt {836045448945502}) <1>
+[03/22/2012 00:10:53] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:10:53] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:10:53] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (19 Energie {836045448940874}) <19>
+[03/22/2012 00:10:53] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:53] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:54] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (22 Energie {836045448940874}) <22>
+[03/22/2012 00:10:54] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:10:55] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:10:55] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (0 -verfehlt {836045448945502}) <1>
+[03/22/2012 00:10:55] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:55] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:55] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:10:56] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (23 Energie {836045448940874}) <23>
+[03/22/2012 00:10:56] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:10:56] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (24 Energie {836045448940874}) <24>
+[03/22/2012 00:10:56] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:56] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:10:57] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (19 Energie {836045448940874}) <19>
+[03/22/2012 00:10:57] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (25 Energie {836045448940874}) <25>
+[03/22/2012 00:10:58] [@Draxas] [@Draxas] [Bösartiger Hieb {807827513802752}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:10:58] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (3)
+[03/22/2012 00:10:59] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Bösartiger Hieb {807827513802752}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (131 Energie {836045448940874}) <131>
+[03/22/2012 00:11:00] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:00] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (23 Energie {836045448940874}) <23>
+[03/22/2012 00:11:00] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:00] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:00] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (37* Energie {836045448940874}) <37>
+[03/22/2012 00:11:01] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:11:01] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:01] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (34* Energie {836045448940874}) <34>
+[03/22/2012 00:11:01] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:01] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:02] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (25 Energie {836045448940874}) <25>
+[03/22/2012 00:11:02] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (22 Energie {836045448940874}) <22>
+[03/22/2012 00:11:03] [@Draxas] [@Draxas] [Bösartiger Hieb {807827513802752}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:03] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (3)
+[03/22/2012 00:11:03] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Bösartiger Hieb {807827513802752}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (130 Energie {836045448940874}) <130>
+[03/22/2012 00:11:04] [@Draxas] [@Draxas] [Machtschrei {998270658674688}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:04] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (4)
+[03/22/2012 00:11:05] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Machtschrei {998270658674688}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (139 Kinetisch {836045448940873}) <139>
+[03/22/2012 00:11:06] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:06] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (23 Energie {836045448940874}) <23>
+[03/22/2012 00:11:06] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:06] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:06] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (0 -verfehlt {836045448945502}) <1>
+[03/22/2012 00:11:07] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (25 Energie {836045448940874}) <25>
+[03/22/2012 00:11:07] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:07] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:11:07] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:07] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:08] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (25 Energie {836045448940874}) <25>
+[03/22/2012 00:11:09] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (24 Energie {836045448940874}) <24>
+[03/22/2012 00:11:09] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:09] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (21 Energie {836045448940874}) <21>
+[03/22/2012 00:11:09] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:09] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:09] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (0 -verfehlt {836045448945502}) <1>
+[03/22/2012 00:11:10] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (21 Energie {836045448940874}) <21>
+[03/22/2012 00:11:10] [@Draxas] [@Draxas] [Bösartiger Hieb {807827513802752}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:10] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (3)
+[03/22/2012 00:11:11] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Bösartiger Hieb {807827513802752}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (125 Energie {836045448940874}) <125>
+[03/22/2012 00:11:12] [@Draxas] [@Draxas] [Zerschlagen {807801743998976}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:12] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (3)
+[03/22/2012 00:11:13] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Zerschlagen {807801743998976}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (101 Kinetisch {836045448940873}) <101>
+[03/22/2012 00:11:14] [@Draxas] [@Draxas] [Verwüstung {1261367470325760}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:14] [@Draxas] [@Draxas] [Verwüstung {1261367470325760}] [Effekt anwenden {836045448945477}: Unerschütterlich {1261367470326274}] ()
+[03/22/2012 00:11:14] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Verwüstung {1261367470325760}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (101 Energie {836045448940874}) <101>
+[03/22/2012 00:11:15] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Verwüstung {1261367470325760}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (101 Energie {836045448940874}) <101>
+[03/22/2012 00:11:17] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Verwüstung {1261367470325760}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (200 Energie {836045448940874}) <200>
+[03/22/2012 00:11:17] [@Draxas] [@Draxas] [Verwüstung {1261367470325760}] [Effekt entfernen {836045448945478}: Unerschütterlich {1261367470326274}] ()
+[03/22/2012 00:11:17] [@Draxas] [@Draxas] [Verwüstung {1261367470325760}] [Ereignis {836045448945472}: Fähigkeit abbrechen {836045448945481}] ()
+[03/22/2012 00:11:17] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:17] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (21 Energie {836045448940874}) <21>
+[03/22/2012 00:11:17] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:17] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:17] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (22 Energie {836045448940874}) <22>
+[03/22/2012 00:11:18] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (36* Energie {836045448940874}) <36>
+[03/22/2012 00:11:18] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:18] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (21 Energie {836045448940874}) <21>
+[03/22/2012 00:11:18] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:18] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:19] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (21 Energie {836045448940874}) <21>
+[03/22/2012 00:11:19] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (23 Energie {836045448940874}) <23>
+[03/22/2012 00:11:20] [@Draxas] [@Draxas] [Machtschrei {998270658674688}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:20] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (4)
+[03/22/2012 00:11:20] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Machtschrei {998270658674688}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (208* Kinetisch {836045448940873}) <208>
+[03/22/2012 00:11:21] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:21] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (24 Energie {836045448940874}) <24>
+[03/22/2012 00:11:21] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:21] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:22] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (25 Energie {836045448940874}) <25>
+[03/22/2012 00:11:22] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (24 Energie {836045448940874}) <24>
+[03/22/2012 00:11:23] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:23] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:11:23] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:23] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:23] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (37* Energie {836045448940874}) <37>
+[03/22/2012 00:11:24] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (24 Energie {836045448940874}) <24>
+[03/22/2012 00:11:24] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:24] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (21 Energie {836045448940874}) <21>
+[03/22/2012 00:11:24] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:24] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:25] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (0 -verfehlt {836045448945502}) <1>
+[03/22/2012 00:11:26] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:11:26] [@Draxas] [@Draxas] [Bösartiger Hieb {807827513802752}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:26] [@Draxas] [@Draxas] [] [Verbrauchen {836045448945473}: Wutpunkt {836045448938497}] (3)
+[03/22/2012 00:11:27] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Bösartiger Hieb {807827513802752}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (122 Energie {836045448940874}) <122>
+[03/22/2012 00:11:28] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:28] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (19 Energie {836045448940874}) <19>
+[03/22/2012 00:11:28] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:28] [@Draxas] [@Draxas] [] [Wiederherstellen {836045448945476}: Wutpunkt {836045448938497}] (1)
+[03/22/2012 00:11:28] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (0 -verfehlt {836045448945502}) <1>
+[03/22/2012 00:11:29] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [Effekt anwenden {836045448945477}: Schaden {836045448945501}] (20 Energie {836045448940874}) <20>
+[03/22/2012 00:11:29] [@Draxas] [@Draxas] [Ansturm {898601647603712}] [Ereignis {836045448945472}: Fähigkeit aktivieren {836045448945479}] ()
+[03/22/2012 00:11:29] [@Draxas] [Kampfausbildungsziel {2816261595594752}] [Ansturm {898601647603712}] [E
